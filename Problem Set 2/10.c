@@ -1,4 +1,5 @@
-/* Delete a value from before Kth index (take input K from user) from the array shift all other value to left. and print the whole array .....
+/* Delete a value from before Kth index (take input K from user) from the array shift all other value to left.
+   and print the whole array .....
    Rakibul Hasan Emon
    ID.1915002532
 */
