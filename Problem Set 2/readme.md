@@ -22,13 +22,13 @@
 11. Delete a value from after Kth index (take input K from user) from the array shift all other value to left and print the whole array.
 
 12. Delete a value X (take input X from user) from the array shift all other value to left. If X is not present in the given array print "Element Not Found".
-  Only delete the first occurrence of the value and print the whole array .
-    
- 13.Delete a value before X (take input X from user) from the array shift all other value to left.If X is not present in the given array print "Element Not Found".
-    Only delete the first occurrence of the value and print the whole array
- 
- 14.Delete a value after X (take input X from user) from the array shift all other value to left.If X is not present in the given array print "Element Not Found".
     Only delete the first occurrence of the value and print the whole array .
     
- 15.Delete a value X (take input X from user) from the array shift all other value to left.If X is not present in the given array print "Element Not Found".
+13.Delete a value before X (take input X from user) from the array shift all other value to left.If X is not present in the given array print "Element Not Found".
+    Only delete the first occurrence of the value and print the whole array
+ 
+14.Delete a value after X (take input X from user) from the array shift all other value to left.If X is not present in the given array print "Element Not Found".
+    Only delete the first occurrence of the value and print the whole array .
+    
+15.Delete a value X (take input X from user) from the array shift all other value to left.If X is not present in the given array print "Element Not Found".
     Delete all the occurrence of the value and print the whole array .
