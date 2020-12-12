@@ -16,3 +16,23 @@ Data Structure Laboratory
 * Array Update
 * Array Search
 * Array Delete
+
+
+# Problem Set 6
+
+* Create
+* Declear
+* Initialize
+* Access
+* Traverse
+* Output
+
+
+# Problem Set 9
+
+* Insert Back
+* Insert Front
+* Insert At
+* Insert Before
+* Insert After
+
