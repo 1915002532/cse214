@@ -1,4 +1,4 @@
-## 01.Implement an Insert Front function to insert an element at the beginning(front)linked list. 
+# 01.Implement an Insert Front function to insert an element at the beginning(front)linked list. 
 
 ```C  
 
@@ -12,7 +12,7 @@
   }
 ```
 
-02.Implement an Insert Back function to insert an element at the end(back) of the linked list. 
+# 02.Implement an Insert Back function to insert an element at the end(back) of the linked list. 
 
 ```C
  node *insert_back(node *temp, int key)
@@ -39,7 +39,7 @@
   }
 ```
 
-03.Implement an Insert At function to insert an element at the nth index of the linked list.Take input n and value from user.(check index out of range)[let for the first element n=1]
+# 03.Implement an Insert At function to insert an element at the nth index of the linked list.Take input n and value from user.(check index out of range)[let for the first element n=1]
 
 ```C
 
@@ -71,7 +71,7 @@
   }
 ```
 
-04.Implement an Insert After function to insert an element after a node with value key of the linked list.Take input key and new node value from user.(check index out of range). 
+# 04.Implement an Insert After function to insert an element after a node with value key of the linked list.Take input key and new node value from user.(check index out of range). 
 
 ```C 
  node *insert_after(node *temp, int key, int value)
@@ -95,7 +95,7 @@
 
 ```
 
-05.Implement an Insert Before function to insert an element before a node with value key of the linked list.Take input key and new node value from user.(check index out of range). 
+# 05.Implement an Insert Before function to insert an element before a node with value key of the linked list.Take input key and new node value from user.(check index out of range). 
 
 ```C 
 
